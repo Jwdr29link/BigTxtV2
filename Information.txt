@@ -1,0 +1,8 @@
+This piece of codetheoretically generates the Words 'this is text' 1.63296e+23
+times.
+
+It is not possible (for now) for the full file size to be actually reached so it will fill all available space, were looking for the biggest text file possible that somebody has made.
+
+Enjoy!
+
+ - The Devs
